@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `Demo link`
-This is demo link [Click here](clone-c83ac.firebaseapp.com).
+This is demo link (clone-c83ac.firebaseapp.com).
 
 ### `Demo image`
 <p>
