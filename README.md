@@ -1,21 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts  
 
 In the project directory, you can run:
 
 ### `Demo link`
 This is demo link [Click here](https://clone-c83ac.firebaseapp.com/).
 
-### `Screen Short`
+### ` Screen Short `
 <p>
   <img src="https://user-images.githubusercontent.com/47452482/95005529-95aba280-0617-11eb-8659-90f51702d9ea.jpg" alt="feed example" width = "400" >
   
- < img src="https://user-images.githubusercontent.com/47452482/95005879-233cc180-061b-11eb-980e-e4dec9ede7a9.jpg" alt="feed
+
+
+</p>
+
+<p>
+  <img src="https://user-images.githubusercontent.com/47452482/95005879-233cc180-061b-11eb-980e-e4dec9ede7a9.jpg" alt="feed
 example" width = "400" >
   </p>
-
-
 
 ### `npm start`
 
