@@ -19,6 +19,11 @@ This is demo link [Click here](https://clone-c83ac.firebaseapp.com/).
   <img src="https://user-images.githubusercontent.com/47452482/95005879-233cc180-061b-11eb-980e-e4dec9ede7a9.jpg" alt="feed
 example" width = "400" >
   </p>
+<p>
+  <img src="https://user-images.githubusercontent.com/47452482/95006023-ff7a7b00-061c-11eb-8549-b05da0a8bfa2.jpg" alt="feed
+  example" width = "400" >
+  </p>
+  
 
 ### `npm start`
 
