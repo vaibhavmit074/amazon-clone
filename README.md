@@ -11,7 +11,7 @@ This is demo link [Click here](clone-c83ac.firebaseapp.com).
 <p>
   <img src="https://user-images.githubusercontent.com/47452482/95005529-95aba280-0617-11eb-8659-90f51702d9ea.jpg" alt="feed example" width = "400" >
   </p>
-(https://user-images.githubusercontent.com/47452482/95005529-95aba280-0617-11eb-8659-90f51702d9ea.jpg)
+(https://user-images.githubusercontent.com/47452482/95005529-95aba280-0617-11eb-8659-90f51702d9ea.jpg).
 `
 ### `npm start`
 
