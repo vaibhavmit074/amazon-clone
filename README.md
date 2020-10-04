@@ -7,6 +7,9 @@ In the project directory, you can run:
 ### `Demo link`
 This is demo link [Click here](clone-c83ac.firebaseapp.com).
 
+### `Demo image`
+(https://user-images.githubusercontent.com/47452482/95005529-95aba280-0617-11eb-8659-90f51702d9ea.jpg)
+`
 ### `npm start`
 
 Runs the app in the development mode.<br />
